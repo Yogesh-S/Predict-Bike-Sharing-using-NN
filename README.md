@@ -7,7 +7,7 @@ layer_1 - Hidden Layer
 output  - Output Layer
 
 Dimensions -  
-Input X                   - (56,)
+Input X                   - (56,)  #Input batch size
 weights_input_to_hidden   - (56,25)
 layer_1                   - (25,)
 weights_hidden_to_output  - (25,1)
